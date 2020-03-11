@@ -1,0 +1,12 @@
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\bin\Debug\SelfAnki.exe.config
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\bin\Debug\SelfAnki.exe
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\bin\Debug\SelfAnki.pdb
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.csprojAssemblyReference.cache
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.Form1.resources
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.Properties.Resources.resources
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.csproj.GenerateResource.cache
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.exe
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.pdb
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.MainMenu.resources
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.CardsForm.resources
+C:\Users\Eugene\source\repos\Частные проекты\SelfAnki\SelfAnki\obj\Debug\SelfAnki.RepeatForm.resources

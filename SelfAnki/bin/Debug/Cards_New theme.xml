@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Cards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cards>
+    <Card>
+      <Name>New Card</Name>
+      <question>new</question>
+      <answer>new</answer>
+      <howGoodLearn>3</howGoodLearn>
+      <daysToRepeat>3</daysToRepeat>
+    </Card>
+  </cards>
+  <them>
+    <cards />
+    <DateTime>2020-01-22T20:30:06.2135825+03:00</DateTime>
+    <name>New theme</name>
+  </them>
+</Cards>
